@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35752
     wikipedia: http://en.wikipedia.org/wiki/Max_O%27Rell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33416#Rambles-in-Womanland
 gutenberg_issued: '2010-08-12'
 gutenberg_type: Text
 identifiers:
