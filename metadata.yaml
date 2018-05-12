@@ -1,0 +1,31 @@
+_repo: Rambles-in-Womanland_33416
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33416-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: O'Rell, Max
+    aliases:
+    - Blouët, Paul
+    - Blouet, Leon Paul
+    - Blouët, Léon Paul
+    birthdate: 1848
+    deathdate: 1903
+    gutenberg_agent_id: '35752'
+    url: http://www.gutenberg.org/2009/agents/35752
+    wikipedia: http://en.wikipedia.org/wiki/Max_O%27Rell
+description: ''
+gutenberg_issued: '2010-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33416'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Women'
+title: Rambles in Womanland
+url: http://www.gutenberg.org/ebooks/33416
